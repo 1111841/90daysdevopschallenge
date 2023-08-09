@@ -1,7 +1,7 @@
-**# Day 6 Task: File Permissions and Access Control Lists
-
-### Today is more on Reading, Learning and Implementing File permissions**
-
+****# Day 6 Task: File Permissions and Access Control Lists
+**
+**### Today is more on Reading, Learning and Implementing File permissions**
+**
  The concept of Linux File permission and ownership is important in Linux. 
  Here, we will be working on Linux permissions and ownership and will do tasks on
  both of them. 
